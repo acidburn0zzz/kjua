@@ -20,7 +20,7 @@
     "@babel/core": "7.4.4",
     "@babel/preset-env": "7.4.4",
     "eslint": "5.16.0",
-    "ghu": "0.20.0",
+    "ghu": "0.28.0",
     "qrcode-generator": "1.4.3",
     "scar": "1.7.0"
   },
